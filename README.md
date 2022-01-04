@@ -1,5 +1,3 @@
-# fetch_bznum
-
 tika-python
 ===========
 
