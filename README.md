@@ -8,3 +8,8 @@ background.
 Installation (with pip)
 -----------------------
 1. `pip install tika`
+
+How to use
+---------------------
+
+Input pdf file into pdf_path
